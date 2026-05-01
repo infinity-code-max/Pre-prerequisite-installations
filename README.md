@@ -8,8 +8,10 @@ This repository provides automated scripts to install essential prerequisites fo
 
 The scripts in this repository help you quickly set up:
 
-* Docker
-* System dependencies
+* Docker installations
+* change file permission
+* Os updates
+* kubernetes installations
 
 Supported platforms:
 
