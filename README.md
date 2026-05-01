@@ -58,7 +58,11 @@ OR
 ```bash
 bash install.sh
 ```
----
+# Run bash file 
+
+```bash
+./filename.sh
+```
 
 ## 👨‍💻 Author
 
