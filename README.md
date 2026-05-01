@@ -10,7 +10,6 @@ The scripts in this repository help you quickly set up:
 
 * Docker
 * System dependencies
-* Required packages for containerization and orchestration
 
 Supported platforms:
 
